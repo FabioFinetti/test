@@ -14,7 +14,7 @@ ENDCLASS.
 CLASS z_class_ff7 IMPLEMENTATION.
 
     method if_oo_adt_classrun~main.
-        out->write( 'Hello demo abapgit' ).
+        out->write( 'Hello demo abapgit version' ).
     ENDMETHOD.
 
 ENDCLASS.
